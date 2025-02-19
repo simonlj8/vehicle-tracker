@@ -30,4 +30,6 @@ return (
     </div>
   );
 
-}
+};
+
+export default CarList;
